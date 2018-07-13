@@ -140,8 +140,11 @@ header h1 {
 }
 
 #about a{
-  color: black
+  padding: 60px;
+  color: rgb(74, 78, 112);
+  transition: 1.2s;
 }
+
 #quote{
   opacity: 0.2;
 
