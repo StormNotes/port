@@ -6,6 +6,18 @@ body {
   scroll-behavior: smooth;
 }
 
+#extra{
+
+  color:rgb(247, 88, 61);
+  transition-delay: 1.7s;
+  transition: 1.2s;
+
+}
+
+#extra:hover{
+  transition: 1.0s;
+  color: rgb(131, 217, 78);
+}
 .cover-main {
   font-family: 'Indie Flower', cursive;
   opacity: 0.9;
