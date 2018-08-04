@@ -92,10 +92,15 @@ header h1 {
   transition: 3s;
   cursor: pointer;
   margin: 20px;
-  padding: 15px;
+  padding: 5px;
   border: 3px solid black;
   display: inline-block;
   background: rgba(152, 171, 251, 0.41);
+}
+
+#inline img{
+  height: 200px;
+  width: 200px;
 }
 
 #gback {
