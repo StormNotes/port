@@ -27,7 +27,9 @@ body {
   font-family: 'Indie Flower', cursive;
   opacity: 0.9;
   background: url(images/codf.jpg);
-  height: 76vh;
+  height: 66vh;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
 }
 
 .welcome {
@@ -35,7 +37,7 @@ body {
 }
 
 .welcome img {
-  margin-top: ;
+
   border: 10px solid rgb(226, 227, 232);
   border-radius: 200px;
 }
@@ -83,7 +85,9 @@ header h1 {
   margin-bottom: 20px;
 }
 
+
 .about {
+
   text-align: center;
   margin-top: 70px;
 }
@@ -106,7 +110,7 @@ header h1 {
 #gback {
   text-align: right;
   padding-top: 20px;
-  padding-right: 60px;
+  padding-right: 35px;
   padding-bottom: 10px;
   font-size: 25px;
   color: black;
